@@ -1,2 +1,2 @@
-# MisInfoBot---Datasets
+# MisInfoBot-Datasets
 Datasets collected for MisInfoBot
